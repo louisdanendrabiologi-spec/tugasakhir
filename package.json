@@ -1,7 +1,7 @@
 {
   "name": "matholy",
   "version": "1.0.0",
-  "description": "Platform belajar olimpiade matematika OSN hingga IMO",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,10 +11,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.22.0",
-    "lucide-react": "^0.363.0",
-    "framer-motion": "^11.0.0",
-    "recharts": "^2.12.0"
+    "react-router-dom": "^6.22.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
